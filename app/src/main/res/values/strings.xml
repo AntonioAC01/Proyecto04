@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Proyecto04</string>
+
+    <string name="lbldescripcion">Necesitas tener una cuenta creada para iniciar la aplicacion</string>
+    <string name="btncrearcuenta">CREAR CUENTA</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="txtcontra">Password</string>
+    <string name="chckrecordarme">Recordarme</string>
+    <string name="lblolvidar">Olvidaste tu Contraseña?</string>
+    <string name="btnentrar">Entrar</string>
+    <string name="lblcentromedico">Selecione un Centro Medico</string>
+    <string name="lbldoctor">Reserva un doctor para tu Cita</string>
+    <string name="btnbuscar">Buscar Doctor</string>
+    <string name="lblfecha">Seleccione una fecha</string>
+    <string name="lbljornadalaboral">Seleccione una Jornada Laboral</string>
+
+
+</resources>
